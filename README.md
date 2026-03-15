@@ -184,7 +184,7 @@ n1,8n2,8n3,8n2,8
 
 - **[MXC 编译器手册](manual_MXC.md)** — MXC 编译教程与 MML 指令参考
 - **[NOTE 编译器手册](manual_NOTE.md)** — NOTE 编译教程、命令行开关与 MML 指令参考
-- **[mml2pdx 编译器手册](Manual_mml2pdx.md)** — mml2pdx 编译教程与扩展 MML 指令参考
+- **[mml2mdx 编译器手册](Manual_mml2mdx.md)** — mml2mdx 编译教程与扩展 MML 指令参考
 
 ---
 
